@@ -1,0 +1,31 @@
+{
+    "name": "cohesive-sse",
+    "version": "0.5.0",
+    "main":"lib/index.js",
+    "scripts": {
+        "test": "jshint lib test"
+    },
+    "devDependencies": {
+        "istanbul": "0.3.x",
+        "es6-module-transpiler": "0.8.x",
+        "jshint": "2.5.x",
+        "mocha": "1.21.x",
+        "chai": "1.9.x",
+        "karma": "0.12.x",
+        "karma-mocha": "0.1.x",
+        "karma-chai": "0.1.x",
+        "karma-coverage": "0.2.x",
+        "karma-teamcity-reporter": "0.1.x",
+        "karma-chrome-launcher": "0.1.x",
+        "karma-firefox-launcher": "0.1.x",
+        "karma-phantomjs-launcher": "0.1.x",
+        "karma-sauce-launcher": "0.2.x",
+        "broccoli":"0.13.x",
+        "broccoli-static-compiler": "0.1.x",
+        "broccoli-es6-concatenator": "0.1.x"
+    },
+    "license": "BSD-3-Clause",
+    "engines": {
+        "node": ">=0.8.0"
+    }
+}

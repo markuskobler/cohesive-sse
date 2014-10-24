@@ -1,0 +1,32 @@
+{
+    "predef":[
+        "describe",
+        "assert",
+        "describe",
+        "it"
+    ],
+    "browser"   : false,
+    "node"      : true,
+    "devel"     : false,
+    "esnext"    : false,
+
+    "eqeqeq"    : true,
+    "forin"     : true,
+    "immed"     : true,
+    "newcap"    : true,
+    "noarg"     : true,
+    "nonew"     : true,
+    "regexp"    : true,
+    "undef"     : true,
+    "unused"    : false,
+    "trailing"  : true,
+    "expr"      : true,
+    "iterator"  : true,
+    
+    "debug"     : true,
+    "eqnull"    : true,
+    "laxcomma"  : true,
+    "sub"       : true,
+
+    "asi": true
+}
